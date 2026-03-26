@@ -1,12 +1,10 @@
-# program-6-a-
+# program-6c
 C module 6
-EXP.No:6-a-Area of triagnle using pointers.
+EXP.No:6c-Area of triagnle using pointers.
 
-Date:19/10/2025
-
-Name: VASANTH S
-
-Ref no: 25017538
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM:
 To write a C program to find the area of a triangle using pointers.
